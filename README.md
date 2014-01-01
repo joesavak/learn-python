@@ -1,5 +1,3 @@
 learn-python
 ============
-Following projecteuler.net for learning python.
-Format of each solution as such:
-"euler"+["problem number", "problem-number"-"optimization-number"].py
+solving some problems found on the net to learn python tricks.
