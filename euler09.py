@@ -1,0 +1,10 @@
+import math
+
+
+
+for a in range (100,1000):
+    for b in range (a+1,1000):
+        for c in range (b+1,1000):            
+            if (((a**2)+(b**2))==(c**2)) and ((a+b+c)==1000):
+                prod=a*b*c                
+                print(prod)
